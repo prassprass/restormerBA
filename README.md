@@ -1,5 +1,5 @@
 # restormerBA
-A modification model based on Restormer and BANet. This repository only containt the modification of training line code, the modified model, and utils. For the overal structures of Folders and Folders name, please refer to the original Restormer github below.
+A modification model based on Restormer and BANet. This repository only contains the modification of training line code, the modified model, and utils. For the overall structures of Folders and Folders name, please refer to the original Restormer GitHub below.
 
 Restormer source code taken from: https://github.com/leftthomas/Restormer
 
